@@ -1,7 +1,7 @@
 #include <iostream>
 
 #include "src/prime.hpp"
-
+using namespace std;
 int main() {
-  // Your driver program goes here
+  prime();
 }

@@ -1,3 +1,3 @@
 #include <string>
-
-std::string prime();
+using namespace std;
+int prime();
